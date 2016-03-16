@@ -1,0 +1,19 @@
+{
+  "name": "rabin.js",
+  "version": "1.0.0",
+  "description": "rabin fingerprinting in pure node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karissa/rabin.js.git"
+  },
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/karissa/rabin.js/issues"
+  },
+  "homepage": "https://github.com/karissa/rabin.js#readme"
+}
